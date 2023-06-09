@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gecktor555
+- 👋 Hi, I’m Viktor
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently studying on my own . HTML, CSS, JAVASCRIPT.
 -     How to contact me? = malkinviktor555@gmail.com
